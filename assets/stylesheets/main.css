@@ -1,0 +1,21 @@
+.favicon {
+    width: 30px;
+}
+.feature {
+    width: 100%;
+}
+.feature2 {
+    width: 100%;
+}
+.feature:hover {
+    opacity: 0.3;
+}
+.footer-favicon {
+    width: 80px;
+}
+.contact-favicon {
+    width: 200px;
+}
+footer {
+    color: aliceblue;
+}
